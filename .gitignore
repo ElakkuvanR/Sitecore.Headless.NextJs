@@ -402,7 +402,7 @@ FodyWeavers.xsd
 /docker/deploy/*
 .DS_Store
 
-.env
+*.env
 
 /dist/*
 !/dist/.gitkeep
