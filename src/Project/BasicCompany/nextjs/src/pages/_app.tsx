@@ -2,6 +2,8 @@ import type { AppProps } from 'next/app';
 import Router from 'next/router';
 import { I18nProvider } from 'next-localization';
 import NProgress from 'nprogress';
+import ErrorBoundary from 'lib/error/error-boundary';
+import FallBackUI from 'lib/error/fallbackUI';
 
 // Using bootstrap and nprogress are completely optional.
 //  bootstrap is used here to provide a clean layout for samples, without needing extra CSS in the sample app
@@ -25,8 +27,11 @@ function App({ Component, pageProps }: AppProps): JSX.Element {
     // Use the next-localization (w/ rosetta) library to provide our translation dictionary to the app.
     // Note Next.js does not (currently) provide anything for translation, only i18n routing.
     // If your app is not multilingual, next-localization and references to it can be removed.
+
     <I18nProvider lngDict={dictionary} locale={pageProps.locale}>
-      <Component {...rest} />
+      <ErrorBoundary fallBackUIComponent={FallBackUI}>
+        <Component {...rest} />
+      </ErrorBoundary>
     </I18nProvider>
   );
 }

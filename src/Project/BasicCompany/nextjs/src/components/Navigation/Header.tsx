@@ -9,7 +9,6 @@ const Header = (): JSX.Element => {
   const data = useNavigationData();
   const items = [data?.item, ...(data?.item?.children.results as NavItem[])];
   const homeItem = data?.item as HomePage;
-
   return (
     <nav className="navbar is-black is-tab" role="navigation" aria-label="main navigation">
       <div className="container">
