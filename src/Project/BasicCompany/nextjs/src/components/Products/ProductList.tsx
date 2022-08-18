@@ -47,11 +47,13 @@ const productListQuery = (query: DocumentNode, itemId: string, after?: string) =
     typeof window === 'undefined'
       ? config.graphqlEndpoint
       : `${config.graphqlEndpointPath}?sc_apikey=${config.sitecoreApiKey}`;
-  return request(endpoint, query, {
+  const data = request(endpoint, query, {
     templateId: SitecoreTemplates._Product.Id,
     rootPath: itemId,
     after,
   });
+  console.log('After ' + JSON.stringify(after));
+  return data;
 };
 
 const ProductList = ({ rendering }: ProductListProps): JSX.Element => {
@@ -72,6 +74,7 @@ const ProductList = ({ rendering }: ProductListProps): JSX.Element => {
       revalidateAll: true,
     }
   );
+  console.log('Data from Component ' + JSON.stringify(data));
   return (
     <div className="container">
       <div className="product-list-columns columns is-multiline">
@@ -102,10 +105,11 @@ const ProductList = ({ rendering }: ProductListProps): JSX.Element => {
 };
 
 export const getStaticProps: GetStaticComponentProps = async (_rendering, layoutData) => {
-  return (
-    layoutData?.sitecore?.route?.itemId &&
-    productListQuery(ProductListDocument, layoutData.sitecore.route.itemId)
-  );
+
+  const data = layoutData?.sitecore?.route?.itemId &&
+  productListQuery(ProductListDocument, layoutData.sitecore.route.itemId)
+  console.log('Data from getStaticProps ' + JSON.stringify(data));
+  return data;
 };
 
 export default ProductList;

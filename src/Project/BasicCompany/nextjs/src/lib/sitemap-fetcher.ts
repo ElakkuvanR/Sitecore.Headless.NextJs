@@ -56,7 +56,11 @@ export class SitecoreSitemapFetcher {
             this.GRAPHQL_ROOT_ITEM_PATH
           );
     }
-
+    const data = this._graphqlSitemapService.fetchSSGSitemap(
+      context?.locales || [],
+      this.GRAPHQL_ROOT_ITEM_PATH
+    );
+    console.log(data);
     return this._graphqlSitemapService.fetchSSGSitemap(
       context?.locales || [],
       this.GRAPHQL_ROOT_ITEM_PATH

@@ -15,7 +15,7 @@ import { SitecorePageProps } from 'lib/page-props';
 import { componentModule } from 'temp/componentFactory';
 import { config as packageConfig } from '../../package.json';
 import config from 'temp/config';
-
+import { EditingPreviewData } from '@sitecore-jss/sitecore-jss-nextjs';
 /**
  * Extract normalized Sitecore item path from query
  * @param {ParsedUrlQuery | undefined} params
@@ -85,7 +85,9 @@ export class SitecorePagePropsFactory {
        * Preview mode
        */
       // If we're in preview (editing) mode, use data already sent along with the editing request
-      const data = await editingDataService.getEditingData(context.previewData);
+      const data = await editingDataService.getEditingData(
+        context.previewData as EditingPreviewData
+      );
       if (!data) {
         throw new Error(
           `Unable to get editing data for preview ${JSON.stringify(context.previewData)}`
