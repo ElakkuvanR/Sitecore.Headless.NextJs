@@ -71,7 +71,7 @@ if ($LASTEXITCODE -ne 0) {
 Write-Host "Opening site..." -ForegroundColor Green
 
 Start-Process https://cm.basic-company-nextjs.localhost/sitecore/
-Start-Process https://www.basic-company-nextjs.localhost/
+Start-Process https://rh.basic-company-nextjs.localhost/
 
 Write-Host ""
 Write-Host "Use the following command to monitor your Rendering Host:" -ForegroundColor Green
