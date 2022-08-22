@@ -1,3 +1,9 @@
+[CmdletBinding(DefaultParameterSetName = "no-arguments")]
+Param (
+    [Parameter(HelpMessage = "Skip Build")]
+    [switch]$SkipBuild
+)
+
 $ErrorActionPreference = "Stop";
 
 # Double check whether init has been run
@@ -6,12 +12,13 @@ $envCheck = Get-Content .env -Encoding UTF8 | Where-Object { $_ -imatch "^$envCh
 if (-not $envCheck) {
     throw "$envCheckVariable does not have a value. Did you run 'init.ps1 -InitEnv'?"
 }
-
-# Build all containers in the Sitecore instance, forcing a pull of latest base containers
-Write-Host "Building containers..." -ForegroundColor Green
-docker-compose build
-if ($LASTEXITCODE -ne 0) {
-    Write-Error "Container build failed, see errors above."
+if ($SkipBuild -eq $false) {
+    # Build all containers in the Sitecore instance, forcing a pull of latest base containers
+    Write-Host "Building containers..." -ForegroundColor Green
+    docker-compose build
+    if ($LASTEXITCODE -ne 0) {
+        Write-Error "Container build failed, see errors above."
+    }
 }
 
 # Start the Sitecore instance
@@ -25,7 +32,8 @@ do {
     Start-Sleep -Milliseconds 100
     try {
         $status = Invoke-RestMethod "http://localhost:8079/api/http/routers/cm-secure@docker"
-    } catch {
+    }
+    catch {
         if ($_.Exception.Response.StatusCode.value__ -ne "404") {
             throw
         }
