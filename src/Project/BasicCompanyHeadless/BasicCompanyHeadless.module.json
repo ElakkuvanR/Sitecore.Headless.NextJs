@@ -10,6 +10,10 @@
             {
                 "name": "media",
                 "path": "/sitecore/media library/Project/Basic Company Headless"
+            },
+            {
+                "name": "Languages",
+                "path": "/sitecore/system/Languages"
             }
         ]
     }
