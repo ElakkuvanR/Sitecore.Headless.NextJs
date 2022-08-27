@@ -26,7 +26,7 @@ param (
 $prefix = [System.Environment]::GetEnvironmentVariable("SQL_DATABASE_PREFIX")
 $databaseConst = '[
     {
-        "name": "'+$prefix+'.Sitecore.Core",
+        "name": "' + $prefix + '.Sitecore.Core",
         "scripts": [
             "CreateUser.Core.sql",
             "SetSitecoreAdminPassword.sql"
@@ -36,7 +36,7 @@ $databaseConst = '[
         ]
     },
     {
-        "name": "'+$prefix+'.Sitecore.Master",
+        "name": "' + $prefix + '.Sitecore.Master",
         "scripts": [
             "CreateUser.Master.sql"
         ],
@@ -45,7 +45,7 @@ $databaseConst = '[
         ]
     },
     {
-        "name": "'+$prefix+'.Sitecore.Web",
+        "name": "' + $prefix + '.Sitecore.Web",
         "scripts": [
             "CreateUser.Web.sql"
         ],
@@ -54,7 +54,7 @@ $databaseConst = '[
         ]
     },
     {
-        "name": "'+$prefix+'.Sitecore.Experienceforms",
+        "name": "' + $prefix + '.Sitecore.Experienceforms",
         "scripts": [
             "CreateUser.ExperienceForms.sql"
         ],
@@ -73,7 +73,7 @@ if (-not $DatabasesToDeploy) {
     $serverDatabases = Invoke-Expression "sqlcmd -S $SqlServer -U $SqlAdminUser -P $SqlAdminPassword -Q '$serverDatabasesQuery' -h -1 -W"
 
     $existingDatabases = Get-ChildItem $ResourcesDirectory -Filter *.dacpac -Recurse -Depth 1 | `
-                            Where-Object { $serverDatabases.Contains($prefix+"."+$_.BaseName)}
+                            Where-Object { $serverDatabases.Contains($prefix + "." + $_.BaseName)}
     if ($existingDatabases.Count -gt 0) {
         Write-Information -MessageData "Sitecore databases are detected. Skipping deployment." -InformationAction Continue
         $deployDatabases = $false

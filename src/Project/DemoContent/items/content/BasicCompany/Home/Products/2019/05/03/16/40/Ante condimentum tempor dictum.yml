@@ -8,6 +8,47 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9FAACE1B-A27D-4172-B6D5-46CC459D6495}">
+              <rls>
+                <ruleset>
+                  <rule
+                    uid="{40A56C75-1AE6-47FA-8026-7BB0840D801D}"
+                    s:name="Show Details">
+                    <conditions>
+                      <condition
+                        uid="CBBCA276C5C14CB080CBBAF34F5FA25F"
+                        s:id="{EA0642FA-500B-4B2F-B264-765E771C516F}" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="D72C5E7976704BABAD7C77A83D0E0BFB"
+                        s:id="{25F351A1-712D-45F8-857D-8AD95BB2ACE9}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="A231A2EFCF1F475F907358C5DFCA7D09"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                    <actions />
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+          </d>
+        </r>
     - ID: "23f42f5e-645c-4a72-9c61-79db1a331e64"
       Hint: Image
       Value: |
@@ -29,14 +70,14 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0f9d14e1-0269-46a0-9903-49c8b34d73ca"
+      Value: "cf860668-9941-46b5-8af9-5e3abbbe165c"
     - ID: "9977fbe7-a0ff-475c-9a7c-ecb81c7f51cf"
       Hint: Price
       Value: 14.99
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-          extranet\Anonymous
+        sitecore\Admin
     - ID: "be500a38-36a0-417b-86c5-e63ba71d0939"
       Hint: Title
       Value: Ante condimentum tempor dictum
@@ -45,7 +86,7 @@ Languages:
       Value: Ad tristique etiam curabitur congue in ornare litora
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190930T183117Z
+      Value: 20220823T142407Z
     - ID: "fc7c99d4-7301-44eb-908c-bf4ffca5a131"
       Hint: RelatedProducts
       Value: |
