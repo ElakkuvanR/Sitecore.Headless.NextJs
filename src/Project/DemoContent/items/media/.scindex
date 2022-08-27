@@ -1,0 +1,118 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\media\Basic Company\product.yml
+ID: "d8b7e336-3ef6-4938-9e1a-8fe8bfedb0fb"
+Parent: "f3874956-9fee-4ee3-9c94-092c4b78fd21"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Basic Company/product
+Signature: BFXD3r4tiPaY+JjhVY9YArwsm5syNkJmakhY1FH8/ug=
+Modified: 637947878102665844
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\media\Basic Company.yml
+ID: "f3874956-9fee-4ee3-9c94-092c4b78fd21"
+Parent: "3d6658d8-a0bf-4e75-b3e2-d050fabcf4e1"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Basic Company
+Signature: viIPKNNcXqCpuFiZBwHpc/vSV6cvkyhlxVIAWvHrt3M=
+Modified: 637947878102529462
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\media\Basic Company\promo-card-2.yml
+ID: "a1b77366-a221-4644-b6a2-ce5fcb50e293"
+Parent: "f3874956-9fee-4ee3-9c94-092c4b78fd21"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Basic Company/promo-card-2"
+Signature: YbcYdh9W2u44UrIihOEDiZDPoIP9x+RLlCqC4Rxfhs8=
+Modified: 637947878102751353
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\media\Basic Company\faq-1.yml
+ID: "2958cd12-3cf7-4e77-bd9c-1f32f54ed597"
+Parent: "f3874956-9fee-4ee3-9c94-092c4b78fd21"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Basic Company/faq-1"
+Signature: FABxQw/Wjoq3BOrsMxvRPrIOG6/TVwpSsndOknuoJZ8=
+Modified: 637947878102529462
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\media\Basic Company\promo-card-3.yml
+ID: "9b83904e-c9be-4d98-84be-a58a2370a510"
+Parent: "f3874956-9fee-4ee3-9c94-092c4b78fd21"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Basic Company/promo-card-3"
+Signature: qtaiwUMJll8P3BrC+XCayI5mDTLVdI9ig8OBd+S5GJg=
+Modified: 637947878102751353
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\media\Basic Company\helix logo.yml
+ID: "f6436c9d-2803-40f8-b5eb-4c8d65e62253"
+Parent: "f3874956-9fee-4ee3-9c94-092c4b78fd21"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Basic Company/helix logo
+Signature: o2dX9Rp3HJOwa6TQuxpJMlAqw3zhD3wvKonIwy8b9Hg=
+Modified: 637947878102579814
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\media\Basic Company\hero home.yml
+ID: "ab1185e2-aa43-4e7b-adbe-146e89a828d5"
+Parent: "f3874956-9fee-4ee3-9c94-092c4b78fd21"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/Basic Company/hero home
+Signature: wslDdP1PbzMJw87h4P1HFZPBDpNlrpfDfA2jYuX7NGA=
+Modified: 637947878102610455
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\media\Basic Company\promo-card-4.yml
+ID: "23ad87cf-d676-45bb-b367-b2d1ffc6fa87"
+Parent: "f3874956-9fee-4ee3-9c94-092c4b78fd21"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Basic Company/promo-card-4"
+Signature: lDth122q0ZvX+dvNRUPvJ+2GQ8NAE5b9kYUSf3K6Dr8=
+Modified: 637947878102847283
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\media\Basic Company\promo-card-5.yml
+ID: "2b2499fa-31ee-4ef1-96e4-8a02a05fafbb"
+Parent: "f3874956-9fee-4ee3-9c94-092c4b78fd21"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Basic Company/promo-card-5"
+Signature: pZE3HQcKTEg6PtHw+unO8b94Rz9LhWwjWKzXvEDsOYk=
+Modified: 637947878102847283
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\media\Basic Company\hero-products.yml
+ID: "5620882a-b7b5-43e6-aca0-fdb0e18c6480"
+Parent: "f3874956-9fee-4ee3-9c94-092c4b78fd21"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Basic Company/hero-products"
+Signature: 51yRQuKhRnA6JfDGCdHLq4YwS17H88F3YnmL7W3TiQU=
+Modified: 637947878102630580
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\media\Basic Company\testimonial-1.yml
+ID: "7ac075bf-7fce-43a0-9cab-66746d18383d"
+Parent: "f3874956-9fee-4ee3-9c94-092c4b78fd21"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Basic Company/testimonial-1"
+Signature: 404iKXoQk0+XmKtKOBbj3Py7dCA95rJU2LonP6O8yx4=
+Modified: 637947878102917537
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\media\Basic Company\promo-card-1.yml
+ID: "9a3a5570-d8d4-455c-a146-22309193dbfe"
+Parent: "f3874956-9fee-4ee3-9c94-092c4b78fd21"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Basic Company/promo-card-1"
+Signature: PODa7YiH+0PwgzynrxIez2gorBdmF3du61HC1xLHVgY=
+Modified: 637947878102731238
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\media\Basic Company\testimonial-2.yml
+ID: "abc252e4-20f4-424a-9466-ad6a296dbedd"
+Parent: "f3874956-9fee-4ee3-9c94-092c4b78fd21"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Basic Company/testimonial-2"
+Signature: XYuSZI1AbFUkjKLQZzgzIdF/oNHwGS038MuWd4PNl5c=
+Modified: 637947878102932997

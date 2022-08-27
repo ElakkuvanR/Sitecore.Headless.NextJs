@@ -1,0 +1,541 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Curae sociosqu.yml
+ID: "12b8d640-1372-4328-b395-21536e144f5a"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Curae sociosqu
+Signature: QVF9ZEDhDzhxVRXZ96ovOI6jB0bUmTP+qvQcN0dAEmk=
+Modified: 637947878102201466
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Maecenas nam.yml
+ID: "63b9578f-0525-4470-babe-9370d39ba904"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Maecenas nam
+Signature: wxuvE82gsT56C943L1dsmEbzEMB8RoIKP1X56i2634k=
+Modified: 637947878102226596
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Scelerisque ornare.yml
+ID: "46b11991-bbfc-4fee-b6a0-bc210f96c167"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Scelerisque ornare
+Signature: ESvGdwpZCDVOhACebf3bSV57lBA6aANNGNxCQETsVVg=
+Modified: 637947878102226596
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Tempor duis sociosqu.yml
+ID: "c0fc922e-a245-4469-a306-0cc3166ba63c"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Tempor duis sociosqu
+Signature: bsgP7Qkw9tpDULUyzYgdskuckIZJfcblF1AGRFzRhyI=
+Modified: 637947878102226596
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Turpis volutpat convallis.yml
+ID: "beed227f-e27f-4179-bad4-4fe04ca44a62"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Turpis volutpat convallis
+Signature: dC+fav+GVZx+pRaSHNLryFrU7qcocU8tcUeSX5QVFd8=
+Modified: 637947878102226596
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany.yml
+ID: "38309a60-6ca4-4e2a-99e0-2b447d8b02fc"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "900e9c29-7afa-4aa7-95c8-f98584ba618e"
+Path: /sitecore/content/BasicCompany
+Signature: 6k1IiwMS3I7Zm9yJOJDAjDnbm4xnirunWqkkH6guUMo=
+Modified: 637947878102020174
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Dictionary.yml
+ID: "b741b17b-67b2-4dd8-a216-d092813871f0"
+Parent: "38309a60-6ca4-4e2a-99e0-2b447d8b02fc"
+Template: "0a2847e6-9885-450b-b61e-f9e6528480ef"
+Path: /sitecore/content/BasicCompany/Dictionary
+Signature: cfXG9IcrFlHVxVIJiOGaQkb1bMXKRBF6KzwtYXGLRMg=
+Modified: 637947878102020174
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home.yml
+ID: "97479c6b-bb30-4a15-afd1-2c89f207e9d6"
+Parent: "38309a60-6ca4-4e2a-99e0-2b447d8b02fc"
+Template: "63cd29ba-0e08-44d5-ab10-e05298a9818d"
+Path: /sitecore/content/BasicCompany/Home
+Signature: 57XhLm6DMjzGo1FpaBwwfmRxCJwjAaK81L4UjFTGXZw=
+Modified: 637947878102060323
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Shared Content.yml
+ID: "0667b089-4a7d-4d1e-9b06-27a1bf8b9e8f"
+Parent: "38309a60-6ca4-4e2a-99e0-2b447d8b02fc"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/BasicCompany/Shared Content
+Signature: C/rVrn0XA9Se5PNfhlKW1gSVSF61NB2kuC46eUpBPmY=
+Modified: 637947878102428280
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Dictionary\Products-Detail-Price.yml
+ID: "536e8251-88d0-4056-b777-e0ea1ca51f17"
+Parent: "b741b17b-67b2-4dd8-a216-d092813871f0"
+Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
+Path: "/sitecore/content/BasicCompany/Dictionary/Products-Detail-Price"
+Signature: 0brTWbMkYbBg0vgsPh/cl5BlcIiPOp5H90YXXpIlcAw=
+Modified: 637947878102020174
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Dictionary\Products-RelatedProducts-Title.yml
+ID: "ba853104-7942-42b6-b1b4-e81e62fffe79"
+Parent: "b741b17b-67b2-4dd8-a216-d092813871f0"
+Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
+Path: "/sitecore/content/BasicCompany/Dictionary/Products-RelatedProducts-Title"
+Signature: QBnZihFKEgx76DUjDJTaEbjD4kG3BMY9Wdj4KTfD9Fs=
+Modified: 637947878102020174
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Page Components.yml
+ID: "d4fbef5c-dda0-4d84-9f51-f1982bcce110"
+Parent: "97479c6b-bb30-4a15-afd1-2c89f207e9d6"
+Template: "7ba26fb3-7ab2-4e09-bb5a-e9d6cd048bba"
+Path: /sitecore/content/BasicCompany/Home/Page Components
+Signature: a1vOGIbi4ll4ha//i6gQylhklvlLSjNi+N3QEVDtU6Y=
+Modified: 637947878102060323
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products.yml
+ID: "af068b22-d7ae-4a91-839b-dd15a9e76554"
+Parent: "97479c6b-bb30-4a15-afd1-2c89f207e9d6"
+Template: "9f57204e-5ce2-4fe8-98f7-9823ec53e8cc"
+Path: /sitecore/content/BasicCompany/Home/Products
+Signature: wtqUNqFmLVndBWbBZz99FskPvB6wir/LMqLBIbpSBTU=
+Modified: 637964116011816123
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Services.yml
+ID: "739820e1-c3e6-42d3-bb4f-a0ccfffe783f"
+Parent: "97479c6b-bb30-4a15-afd1-2c89f207e9d6"
+Template: "81651c92-cf17-4751-9c9e-af87e3c2918c"
+Path: /sitecore/content/BasicCompany/Home/Services
+Signature: +kg+OWNnKJPwbX+6oFOuiTSVJZvW41hRaRlf5iuX2dY=
+Modified: 637947878102327907
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Shared Content\Accordion Items.yml
+ID: "a37d711c-a50f-4c25-8ba8-f0e0eb6f7900"
+Parent: "0667b089-4a7d-4d1e-9b06-27a1bf8b9e8f"
+Template: "8fb2c42c-b950-4be3-b1c6-8ba7f11b2ed8"
+Path: /sitecore/content/BasicCompany/Shared Content/Accordion Items
+Signature: oL5l77ZaDIQ7ZsTg4d/DtVeQaMgkE1gOU8QtgEA/HAY=
+Modified: 637947878102428280
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Shared Content\Hero Banners.yml
+ID: "e5217c07-4de9-45f2-97dd-08a162b31d1c"
+Parent: "0667b089-4a7d-4d1e-9b06-27a1bf8b9e8f"
+Template: "456f5066-3169-4cda-b827-ed0917a75776"
+Path: /sitecore/content/BasicCompany/Shared Content/Hero Banners
+Signature: +WSfLdUHeFlEdh+p/gczbILQz7WC9am7QrCUd4E2Nmo=
+Modified: 637947878102428280
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Shared Content\Promo Cards.yml
+ID: "7bc02aef-e662-41f3-b80d-4b1f52ed9d79"
+Parent: "0667b089-4a7d-4d1e-9b06-27a1bf8b9e8f"
+Template: "40a33364-f008-476a-95ad-22efc6e4d93e"
+Path: /sitecore/content/BasicCompany/Shared Content/Promo Cards
+Signature: MYcHSfh/yMdHxdRI78DAUwfaH5mdNRUHrisBIepROV8=
+Modified: 637947878102428280
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Shared Content\Section Headers.yml
+ID: "e4321aab-f951-4d87-ad3b-b5b176b365a3"
+Parent: "0667b089-4a7d-4d1e-9b06-27a1bf8b9e8f"
+Template: "1ae158e5-e120-4875-b560-b76e90c64065"
+Path: /sitecore/content/BasicCompany/Shared Content/Section Headers
+Signature: yoLSzZlNUyEEPvc0XKGb+/2eln66xcbdHqZ3hYQzhu4=
+Modified: 637947878102509282
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Shared Content\Testimonials.yml
+ID: "dc5d4c66-510d-4214-8c3c-90afa59207cb"
+Parent: "0667b089-4a7d-4d1e-9b06-27a1bf8b9e8f"
+Template: "092a159d-93df-4c49-9226-9abe5bcbc7aa"
+Path: /sitecore/content/BasicCompany/Shared Content/Testimonials
+Signature: +IPkNzcq1YZUpKn7BTkGf9X3UZOcb5mkV0wIwydIXjs=
+Modified: 637947878102529462
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Page Components\Hero Banner.yml
+ID: "9c581356-66d4-4993-bb25-757b710a06e8"
+Parent: "d4fbef5c-dda0-4d84-9f51-f1982bcce110"
+Template: "4a421518-7b4a-4d43-af9b-94e17e00ec9f"
+Path: /sitecore/content/BasicCompany/Home/Page Components/Hero Banner
+Signature: kPU8QEhUjK2ATYSeIMsj4w2VdO2kt3Ss7cRIuxJ6TM8=
+Modified: 637947878102060323
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Page Components\Section Header.yml
+ID: "086cbc66-2b60-4711-bee5-14c11181fb27"
+Parent: "d4fbef5c-dda0-4d84-9f51-f1982bcce110"
+Template: "fcb0ba21-9aaa-45f8-b86c-738fb269e06f"
+Path: /sitecore/content/BasicCompany/Home/Page Components/Section Header
+Signature: cjgYNMbnSHgU7kjdrqCgMa4WarxCFVIqeNOwJkuhzgk=
+Modified: 637947878102060323
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019.yml
+ID: "5d08d1d6-3ee8-41f4-a5c7-f54336c223c4"
+Parent: "af068b22-d7ae-4a91-839b-dd15a9e76554"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/BasicCompany/Home/Products/2019
+Signature: zfnJ7PW5jgNkx6C1vAS9pSooIpWHDWUrAxJHf23iSN8=
+Modified: 637947878102100944
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\Page Components.yml
+ID: "7d820475-9032-4132-9b48-d773652c9b5f"
+Parent: "af068b22-d7ae-4a91-839b-dd15a9e76554"
+Template: "7ba26fb3-7ab2-4e09-bb5a-e9d6cd048bba"
+Path: /sitecore/content/BasicCompany/Home/Products/Page Components
+Signature: 9Pd+YhLtaYOGuE4viBwBLjQ1pxAyr652ccI1RRDRSLw=
+Modified: 637947878102307610
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Services\Page Components.yml
+ID: "7972f31a-628d-40dd-bc51-1f1fbc93adfb"
+Parent: "739820e1-c3e6-42d3-bb4f-a0ccfffe783f"
+Template: "7ba26fb3-7ab2-4e09-bb5a-e9d6cd048bba"
+Path: /sitecore/content/BasicCompany/Home/Services/Page Components
+Signature: vIDtdVZrR6B0nXdi57S3UV+veTCt8EHhEwxX4CDB4nc=
+Modified: 637947878102327907
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Shared Content\Promo Cards\Dolor Sit.yml
+ID: "3a379769-80c2-496c-8b00-31154b530739"
+Parent: "7bc02aef-e662-41f3-b80d-4b1f52ed9d79"
+Template: "b0d7dedc-8908-4fd0-9b1a-a1501d03d485"
+Path: /sitecore/content/BasicCompany/Shared Content/Promo Cards/Dolor Sit
+Signature: FnYiAWCRFmGpxeobV5djrdRW11aaKO9vwfmmDlYKIX4=
+Modified: 637947878102428280
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Shared Content\Promo Cards\Etiam ultricies.yml
+ID: "1014ceee-6871-425f-9ca7-c1b91fa1fe47"
+Parent: "7bc02aef-e662-41f3-b80d-4b1f52ed9d79"
+Template: "b0d7dedc-8908-4fd0-9b1a-a1501d03d485"
+Path: /sitecore/content/BasicCompany/Shared Content/Promo Cards/Etiam ultricies
+Signature: SdxsaiWGAHXm3+txcVCnLAb/is3PC4vjQD7yWZuZPSs=
+Modified: 637947878102488645
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Shared Content\Promo Cards\Lorem Ipsum.yml
+ID: "e74405ca-a09b-468c-af74-5ffbd6cdbaed"
+Parent: "7bc02aef-e662-41f3-b80d-4b1f52ed9d79"
+Template: "b0d7dedc-8908-4fd0-9b1a-a1501d03d485"
+Path: /sitecore/content/BasicCompany/Shared Content/Promo Cards/Lorem Ipsum
+Signature: LcC07HhvIIi5jvHMZ+K0/MUcD+ZczbkZd6Ac4K6dYaw=
+Modified: 637947878102488645
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Shared Content\Promo Cards\Nullam vel.yml
+ID: "4add5536-81fa-4c38-b5aa-7836423fd9f9"
+Parent: "7bc02aef-e662-41f3-b80d-4b1f52ed9d79"
+Template: "b0d7dedc-8908-4fd0-9b1a-a1501d03d485"
+Path: /sitecore/content/BasicCompany/Shared Content/Promo Cards/Nullam vel
+Signature: TYPfhWyU2zV2lDtONH8AdEkKPPYjLcF04bATfJQIwBw=
+Modified: 637947878102509282
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Shared Content\Promo Cards\Nunc nulla.yml
+ID: "a994dee7-8cea-4213-b546-7e10ceda74c2"
+Parent: "7bc02aef-e662-41f3-b80d-4b1f52ed9d79"
+Template: "b0d7dedc-8908-4fd0-9b1a-a1501d03d485"
+Path: /sitecore/content/BasicCompany/Shared Content/Promo Cards/Nunc nulla
+Signature: lDKyEUE3+N4mtnF2+YtcEf9obc6ccJ3ST2mK64LzMI4=
+Modified: 637947878102509282
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05.yml
+ID: "ce6df187-c709-487d-b3cc-95787a423529"
+Parent: "5d08d1d6-3ee8-41f4-a5c7-f54336c223c4"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05
+Signature: zfnJ7PW5jgNkx6C1vAS9pSooIpWHDWUrAxJHf23iSN8=
+Modified: 637947878102100944
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\Page Components\Product List Hero.yml
+ID: "1fb6764a-97d1-41d7-a568-e2b62164dd02"
+Parent: "7d820475-9032-4132-9b48-d773652c9b5f"
+Template: "4a421518-7b4a-4d43-af9b-94e17e00ec9f"
+Path: /sitecore/content/BasicCompany/Home/Products/Page Components/Product List Hero
+Signature: J6Wd0bOCehPNcAyEXpbCzXpKNhzfliaGn9Kypk1yt6Q=
+Modified: 637947878102307610
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Services\Page Components\FAQ Dolor.yml
+ID: "60346c12-ae98-49c9-bd9b-93834765d7bf"
+Parent: "7972f31a-628d-40dd-bc51-1f1fbc93adfb"
+Template: "fe549078-8c72-472a-8ea7-51053e0e1d73"
+Path: /sitecore/content/BasicCompany/Home/Services/Page Components/FAQ Dolor
+Signature: y40ydlgRrYB0ka9LbEcbR5jI/grwYQGaK2ovc+vUhtU=
+Modified: 637947878102327907
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Services\Page Components\FAQ Ipsum.yml
+ID: "579b7fd1-5a1e-496a-a218-9394e45298c8"
+Parent: "7972f31a-628d-40dd-bc51-1f1fbc93adfb"
+Template: "fe549078-8c72-472a-8ea7-51053e0e1d73"
+Path: /sitecore/content/BasicCompany/Home/Services/Page Components/FAQ Ipsum
+Signature: YTocrhMwo1OFrY2R8/69Exm6TzDa5p6X93sU6qbmIoc=
+Modified: 637947878102327907
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Services\Page Components\Frequently Asked Questions.yml
+ID: "01525385-9571-44c8-a7b5-2af160c2ec17"
+Parent: "7972f31a-628d-40dd-bc51-1f1fbc93adfb"
+Template: "fcb0ba21-9aaa-45f8-b86c-738fb269e06f"
+Path: /sitecore/content/BasicCompany/Home/Services/Page Components/Frequently Asked Questions
+Signature: y6H8+ruITE87hRQO7pHJiqBzw55EfWSRLqRGSIgAoGE=
+Modified: 637947878102327907
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Services\Page Components\Services.yml
+ID: "6e7d9a62-b995-4109-ab0d-0dc153764df5"
+Parent: "7972f31a-628d-40dd-bc51-1f1fbc93adfb"
+Template: "fcb0ba21-9aaa-45f8-b86c-738fb269e06f"
+Path: /sitecore/content/BasicCompany/Home/Services/Page Components/Services
+Signature: SdVvSLARqOGLhlIRvANR4G0byAM5rRoZQu/+9f6TPD8=
+Modified: 637947878102327907
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Services\Page Components\Testimonial Dolor.yml
+ID: "b672949f-6c0f-47a2-85f6-250a05cd5381"
+Parent: "7972f31a-628d-40dd-bc51-1f1fbc93adfb"
+Template: "ec97b156-adfa-4e37-89d8-789637fb6f1b"
+Path: /sitecore/content/BasicCompany/Home/Services/Page Components/Testimonial Dolor
+Signature: LGIYVLiRJnCgMl+Bv+plHtKBjbnPWzrDT1ZSyDxcjpk=
+Modified: 637947878102408054
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Services\Page Components\Testimonial Ipsum.yml
+ID: "073a840b-0d11-404a-9c79-11aa1b91eebd"
+Parent: "7972f31a-628d-40dd-bc51-1f1fbc93adfb"
+Template: "ec97b156-adfa-4e37-89d8-789637fb6f1b"
+Path: /sitecore/content/BasicCompany/Home/Services/Page Components/Testimonial Ipsum
+Signature: ep0k0SO5dPZ+z+i7pSqTSPL2+zBxH9SdLt3ZQuEhujI=
+Modified: 637947878102413159
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\40\Ut praesent litora.yml
+ID: "2a4e0749-001a-4827-960b-197e43bba414"
+Parent: "44b6c92f-2160-416e-914c-bfc160624596"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/40/Ut praesent litora
+Signature: UVnWbY7CSmSg43r6hcfHvupClTrMxz98/Erh7Rr7qV8=
+Modified: 637947878102126320
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Ac vivamus quam.yml
+ID: "c053b40c-9690-4298-9877-412d25485c21"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Ac vivamus quam
+Signature: 0hkOlDRcN/T4pBBA0QPZx6jwlzGYJj++Kfq+XXC2PMg=
+Modified: 637947878102126320
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\At potenti morbi.yml
+ID: "d2fb7162-3a8c-4407-a481-736a7181608a"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/At potenti morbi
+Signature: 2sRbW3AJcYbX9BcMSdYwsJ9D5QydutTAxma+dfP+j0g=
+Modified: 637947878102126320
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Condimentum metus viverra ipsum.yml
+ID: "0943bc07-9828-45fa-8c4b-c2b49fde019c"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Condimentum metus viverra ipsum
+Signature: Mu6acunFOK8sfsjnMGeCaNn8IjAueNdGBoTBXEij9ws=
+Modified: 637947878102201466
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Euismod semper quisque mollis.yml
+ID: "404d27f4-8ab6-4b26-a027-ff1775daf3ae"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Euismod semper quisque mollis
+Signature: OcQCG4M73a3tJBUrDzKJinp8sdF+dTiqFDtN8Z2cnnk=
+Modified: 637947878102201466
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Feugiat torquent non.yml
+ID: "64c67d17-d9fa-4cc3-958e-ced6a9ef1312"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Feugiat torquent non
+Signature: 4fPOrsfwOX5GpzYgCSzm6VbJioRhu9JixsNHtnjqpIQ=
+Modified: 637947878102226596
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Interdum ut metus.yml
+ID: "413d28c8-5e86-4041-94b7-c15f6f3323cb"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Interdum ut metus
+Signature: k8xdmPV8IU3fzaNYyy+lqQyd7FjOEDMQ2TVIis8Xzpg=
+Modified: 637947878102226596
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Placerat mi nunc.yml
+ID: "7b166f1f-3980-4249-89ff-1982fc5c9d0b"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Placerat mi nunc
+Signature: 4WMZgYnKghlKtI04EAQjqCrpoSCXImvlhWQfAON+bUE=
+Modified: 637947878102226596
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Quam eros hac.yml
+ID: "aa042953-21b4-4a76-9ed9-84e7de2537ba"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Quam eros hac
+Signature: Ei1jnVPem3PdKnBh4uAMaLjb12t9+RydzTaOU6QaEMA=
+Modified: 637947878102226596
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Sociosqu fermentum eget lorem.yml
+ID: "ec86dcd3-5438-4ac8-b8f1-8bc78a37661c"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Sociosqu fermentum eget lorem
+Signature: 8NFYb8g2WugNkH+ldpu9JGXK4IUBfyCOsfibgxpljDc=
+Modified: 637947878102226596
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Sollicitudin suspendisse.yml
+ID: "641e5449-b775-4549-8cf9-78d876476704"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Sollicitudin suspendisse
+Signature: aO5MI1BgN5uhE2sG3vQiHhWm8vwzVhCuRDISFD6v/LM=
+Modified: 637947878102226596
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Ullamcorper varius.yml
+ID: "57eee913-0cc2-4015-8ccf-79e847aae53a"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Ullamcorper varius
+Signature: SxtTTcV5HR4JdB+1Jb5y0IiGYLmm8Ur4fdXY2kU2K6E=
+Modified: 637947878102226596
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41\Ut nullam.yml
+ID: "d238cb82-0ede-4153-9367-d06c0ae405ff"
+Parent: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41/Ut nullam
+Signature: XyDI0EWmu2YxItgyZLxUXanqEf3dKS6t51Z61Gn18UM=
+Modified: 637947878102226596
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Services\Page Components\FAQ Lorem.yml
+ID: "2b1b2a86-afaa-4222-b313-4af359e5af9e"
+Parent: "7972f31a-628d-40dd-bc51-1f1fbc93adfb"
+Template: "fe549078-8c72-472a-8ea7-51053e0e1d73"
+Path: /sitecore/content/BasicCompany/Home/Services/Page Components/FAQ Lorem
+Signature: Js7uQ7JJQuoB7XlMVYWI8qCdEYPJaRad6Zfp0yYpl7A=
+Modified: 637947878102327907
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Services\Page Components\FAQ Sit.yml
+ID: "3cc674be-cfff-4ed6-bf74-162ce1b0c8a4"
+Parent: "7972f31a-628d-40dd-bc51-1f1fbc93adfb"
+Template: "fe549078-8c72-472a-8ea7-51053e0e1d73"
+Path: /sitecore/content/BasicCompany/Home/Services/Page Components/FAQ Sit
+Signature: lucgnX0cXiyX5q8RSbsic+JM1VIUks139MFNkxXOgWc=
+Modified: 637947878102327907
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Services\Page Components\Testimonial Lorem.yml
+ID: "5a6e3f19-50ba-445f-8a2b-9c659afe3a8a"
+Parent: "7972f31a-628d-40dd-bc51-1f1fbc93adfb"
+Template: "ec97b156-adfa-4e37-89d8-789637fb6f1b"
+Path: /sitecore/content/BasicCompany/Home/Services/Page Components/Testimonial Lorem
+Signature: Xh8dPPgVBpqZRdwB4KoPCsRmpp6OnUwCLER7jECLHuA=
+Modified: 637947878102428280
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Services\Page Components\Testimonial Sit.yml
+ID: "056c3136-ed38-4111-a01a-27c128ef6d1e"
+Parent: "7972f31a-628d-40dd-bc51-1f1fbc93adfb"
+Template: "ec97b156-adfa-4e37-89d8-789637fb6f1b"
+Path: /sitecore/content/BasicCompany/Home/Services/Page Components/Testimonial Sit
+Signature: +ABzhdQhgrMk/gb3Ubdh8sXxEB168Y+xGkIMx0O0YsU=
+Modified: 637947878102428280
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03.yml
+ID: "798d00fd-3e8e-4c19-b9ed-82078861073b"
+Parent: "ce6df187-c709-487d-b3cc-95787a423529"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03
+Signature: zfnJ7PW5jgNkx6C1vAS9pSooIpWHDWUrAxJHf23iSN8=
+Modified: 637947878102126320
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16.yml
+ID: "3b5cf019-49c6-4976-bb51-c79159c68630"
+Parent: "798d00fd-3e8e-4c19-b9ed-82078861073b"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16
+Signature: zfnJ7PW5jgNkx6C1vAS9pSooIpWHDWUrAxJHf23iSN8=
+Modified: 637947878102126320
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\40.yml
+ID: "44b6c92f-2160-416e-914c-bfc160624596"
+Parent: "3b5cf019-49c6-4976-bb51-c79159c68630"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/40
+Signature: zfnJ7PW5jgNkx6C1vAS9pSooIpWHDWUrAxJHf23iSN8=
+Modified: 637947878102126320
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\41.yml
+ID: "a0d122c0-7353-45e8-89d5-9ef8de829f29"
+Parent: "3b5cf019-49c6-4976-bb51-c79159c68630"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/41
+Signature: zgTtY+F3bLlPAqB1ZpAMaeKwX2tBwMhAiXQjcVKkM1g=
+Modified: 637947878102126320
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\40\Ante condimentum tempor dictum.yml
+ID: "7868bb89-feb1-4c08-ad4e-1c72fac5e0b5"
+Parent: "44b6c92f-2160-416e-914c-bfc160624596"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/40/Ante condimentum tempor dictum
+Signature: LLoZ8dbUCRk20RF6t0ViOQe7syW7OpXlpBEmsJWk2MM=
+Modified: 637968615743366821
+---
+File: |
+  D:\Headless\Sitecore.Headless.NextJs\src\Project\DemoContent\items\content\BasicCompany\Home\Products\2019\05\03\16\40\Molestie et faucibus vel.yml
+ID: "5a180b63-6735-4896-9279-1794da2b48ad"
+Parent: "44b6c92f-2160-416e-914c-bfc160624596"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/content/BasicCompany/Home/Products/2019/05/03/16/40/Molestie et faucibus vel
+Signature: +Vflubvcl/rDDgik1RKMONNMuefTkDpCvJLfgnfnAwQ=
+Modified: 637947878102126320
